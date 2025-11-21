@@ -11,8 +11,8 @@ export const companyInfo = {
     },
     contact: {
         address: {
-            street: '1 Carlsberg Close',
-            city: 'Hillview',
+            street: '2 Cottam Croft',
+            city: 'Pontefract',
             country: 'United Kingdom'
         },
         email: {
